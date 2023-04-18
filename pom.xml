@@ -10,6 +10,11 @@
         <module>cloud-consumer-order80</module>
         <module>cloud-api-commons</module>
         <module>cloud-eureka-server7001</module>
+        <module>cloudalibaba-pay-9001</module>
+        <module>cloudalibaba-pay-9001</module>
+        <module>cloudalibaba-pay-9002</module>
+        <module>cloudalibaba-order-83</module>
+        <module>cloudalibaba-Nacos-config-client-3377</module>
     </modules>
     <packaging>pom</packaging>     <!-- 统一管理jar包版本 -->
     <properties>
